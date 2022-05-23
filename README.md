@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### Currently working on
+- [SAE Community](https://github.com/dream-lab-group/sae-community)
+
 ### 👨‍💻 What I use
 <p>
   <a href="https://directus.io/"><img alt="Directus" src="https://img.shields.io/badge/directus-%2364f.svg?style=for-the-badge&logo=directus&logoColor=white"></a>
