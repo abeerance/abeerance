@@ -1,10 +1,12 @@
-### Hi there 👋
+## Hi there 👋
 
-### Currently working on
-- [SAE Community](https://github.com/dream-lab-group/sae-community)
+### 🤹 About me
+- 🔨 Currently working on the Jamstack interdisciplinary project: [SAE Community](https://github.com/dream-lab-group/sae-community)
+- 👨‍🎓 Attending the bachelor at SAE Institute Zurich
+- 🕵️‍♂️ Currently learning: deepen my understanding as well Jamstack architecture
 
 ### 👨‍💻 What I use
-<p>
+<div align="center">
   <a href="https://directus.io/"><img alt="Directus" src="https://img.shields.io/badge/directus-%2364f.svg?style=for-the-badge&logo=directus&logoColor=white"></a>
   <a href="https://greensock.com/"><img alt="Green Sock" src="https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white"></a>
   <a href="https://insomnia.rest/"><img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE"></a>
@@ -22,7 +24,7 @@
   <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
   <a href="https://github.com/"><img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://gitlab.com/"><img alt="Gitlab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"></a>
-</p>
+</div>
 
 <br>
 
