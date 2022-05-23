@@ -31,12 +31,12 @@
 <br>
 
 <div align="center">
-   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="abeerances's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=abeerance&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=20A39E&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="abeerances's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abeerance&langs_count=7&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=20A39E&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="abeerances's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=abeerance&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=57A773&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="abeerances's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abeerance&langs_count=7&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=57A773&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
 </div>
 
 <br>
 
 <div align="center">
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="abeerances's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abeerance&bg_color=1F222E&color=F8D866&line=20A39E&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="abeerances's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abeerance&bg_color=1F222E&color=F8D866&line=57A773&point=FFFFFF&hide_border=true" /></a>
   </div>
