@@ -5,6 +5,8 @@
 - 👨‍🎓 Attending the bachelor at SAE Institute Zurich
 - 🕵️‍♂️ Currently learning: deepen my understanding as well Jamstack architecture
 
+<br>
+
 ### 👨‍💻 What I use
 <div align="center">
   <a href="https://directus.io/"><img alt="Directus" src="https://img.shields.io/badge/directus-%2364f.svg?style=for-the-badge&logo=directus&logoColor=white"></a>
