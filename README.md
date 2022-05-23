@@ -20,3 +20,16 @@
   <a href="https://github.com/"><img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://gitlab.com/"><img alt="Gitlab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"></a>
 </p>
+
+<br>
+
+<div align="center">
+   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="abeerances's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=abeerance&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=20A39E&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="abeerances's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abeerance&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=20A39E&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+</div>
+
+<br>
+
+<div align="center">
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="abeerances's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abeerance&bg_color=1F222E&color=F8D866&line=20A39E&point=FFFFFF&hide_border=true" /></a>
+  </div>
