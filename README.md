@@ -35,7 +35,7 @@
 </div>
 
 <div align="center">
-  <img alt="Abeerance's streak" src="https://streak-stats.demolab.com?user=abeerance&theme=react&hide_border=true&background=1F222E&ring=57A773&fire=57A773&currSteakNum=FFFFFF&icon_color=F8D866"/>
+  <img alt="Abeerance's streak" src="https://streak-stats.demolab.com?user=abeerance&hide_border=true&background=1F222E&ring=57A773&fire=57A773&currSteakNum=FFFFFF&icon_color=F8D866"/>
 </div>
 
 <br>
