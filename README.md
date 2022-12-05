@@ -36,6 +36,4 @@
 
 <br>
 
-<div align="center">
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="abeerances's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abeerance&bg_color=1F222E&color=F8D866&line=57A773&point=FFFFFF&hide_border=true" /></a>
-  </div>
+
