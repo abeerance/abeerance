@@ -38,8 +38,6 @@
   <img alt="Abeerance's streak" src="https://streak-stats.demolab.com?user=abeerance&theme=monokai&hide_border=true"/>
 </div>
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=abeerance&theme=monokai&hide_border=true)](https://git.io/streak-stats)
-
 <br>
 
 
