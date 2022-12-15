@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### 🤹 About me
-- 🔨 Currently working on the Jamstack interdisciplinary project: [SAE Community](https://github.com/dream-lab-group/sae-community)
+- 🔨 Currently working on the Jamstack project: [SAE WEB ELearning](https://github.com/abeerance/sae-web-elearning)
 - 👨‍🎓 Attending the bachelor at SAE Institute Zurich
 - 🕵️‍♂️ Currently learning: deepen my understanding as well Jamstack architecture
 
